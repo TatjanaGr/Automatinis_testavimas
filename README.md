@@ -1,0 +1,2 @@
+# Automatinis_testavimas
+automatic_testings
